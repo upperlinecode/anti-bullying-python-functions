@@ -12,4 +12,4 @@ But he's ready to make some healthier choices - he just needs an app to help him
 
 ## The Lab
 
-Complete each challenge listed by coding out the methods described in the diet.rb file. Then code out your tests in the testdiet.rb file. Run those tests by entering `python testdiet.py` in the console / command line / terminal.
+Complete each challenge listed by coding out the functions described in the diet.py file. Then code out your tests in the testdiet.py file. Run those tests by entering `python testdiet.py` in the console / command line / terminal.
