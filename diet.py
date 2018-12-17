@@ -4,7 +4,7 @@
 #    If he has eaten zero cookies, return the string "Good job, Cookie Monster."
 
 def perfect_day(cookies):
-   pass
+   return
 
 # 2. Not every day can be a perfect day. Let's write a method for a good_day of dieting.
 #    If Cookie Monster has eaten fewer than three cookies, it should return a string that congratulates him.
