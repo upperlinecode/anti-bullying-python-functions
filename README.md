@@ -1,5 +1,7 @@
 # Cookie Monster's Nutrition App
 
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/cookie-monster-python-functions)](https://repl.it/github/upperlinecode/cookie-monster-python-functions)
+
 ## The Goal
 
 As you may know, Cookie Monster isn't the most well-disciplined character on Sesame Street.
