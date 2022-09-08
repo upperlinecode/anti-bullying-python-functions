@@ -2,6 +2,8 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/upperlinecode/cookie-monster-python-functions)](https://repl.it/github/upperlinecode/cookie-monster-python-functions)
 
+NOTE: This lab has been deprecated. Please use Angelica Anti-Bullying lab instead.
+
 ## The Goal
 
 As you may know, Cookie Monster isn't the most well-disciplined character on Sesame Street.
