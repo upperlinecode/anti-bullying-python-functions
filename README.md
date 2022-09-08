@@ -1,17 +1,17 @@
-# Cookie Monster's Nutrition App
+# Angelica's Anti-Bully App
 
 [![Run on Repl.it](https://repl.it/badge/github/upperlinecode/cookie-monster-python-functions)](https://repl.it/github/upperlinecode/cookie-monster-python-functions)
 
 ## The Goal
 
-As you may know, Cookie Monster isn't the most well-disciplined character on Sesame Street.
+As you may know, Angelica Pickles isn't the most well-disciplined girl in the Rugrats.
 
-![Cookie's Birthday Surprise](Cookie.gif)
+![Angelica Being a Bully](Bully.gif)
 
-When he sees a cookie, he eats it - end of story.
+When she sees a naive baby, she bullies them - end of story.
 
-But he's ready to make some healthier choices - he just needs an app to help him keep track of these things. Let's build some functions that tell Cookie Monster whether he's doing a good job of striving towards his nutrition goals that day.
+But she's ready to make some nicer decisions - she just needs an app to help her keep track of these things. Let's build some functions that tell Angelica whether she's doing a good job of striving towards her goal of not bullying for the day.
 
 ## The Lab
 
-Complete each challenge listed by coding out the functions described in the diet.py file. Then code out your tests in the testdiet.py file. Run those tests by entering `python testdiet.py` in the console / command line / terminal.
+Complete each challenge listed by coding out the functions described in the willpower.py file. Then code out your tests in the testwillpower.py file. Run those tests by entering `python testwillpower.py` in the console / command line / terminal.
